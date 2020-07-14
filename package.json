@@ -1,6 +1,6 @@
 {
   "name": "@ith1nk/post-generator",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Automatically generate post with html tags",
   "main": "index.js",
   "dependencies": {
