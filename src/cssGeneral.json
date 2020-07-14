@@ -1,0 +1,34 @@
+{
+  "Declaration": "General CSS shared by Models",
+  "container": {
+    "marginTop": "5em"
+  },
+  "bannerDiv": {
+    "position": "relative",
+    "backgroundColor": "#14365f",
+    "marginTop": "4em",
+    "height": "7em"
+  },
+  "bannerText": {
+    "position": "absolute",
+    "top": "23%",
+    "color": "white",
+    "fontWeight": "bold",
+    "fontSize": "2.5em"
+  },
+  "formField": {
+    "label": {
+      "fontWeight": "bold"
+    },
+    "field": {
+      "display": "inline"
+    },
+    "button": {
+      "marginRight": "2em"
+    }
+  },
+  "managePageTitle": {
+    "textDecoration": "underline",
+    "color": "darkgreen"
+  }
+}
