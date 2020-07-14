@@ -1,5 +1,5 @@
 {
-  "name": "post-generator",
+  "name": "@ith1nk/post-generator",
   "version": "0.0.3",
   "description": "Automatically generate post with html tags",
   "main": "index.js",
@@ -13,6 +13,9 @@
     "react-select": "^3.1.0",
     "react-spring": "^8.0.27",
     "reactstrap": "^8.4.1"
+  },
+  "repository": {
+    "url": ""
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
